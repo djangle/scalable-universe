@@ -1,1 +1,2 @@
-# scalable-universe
+# Scalable Universe
+## Free-Range Vector Graphics

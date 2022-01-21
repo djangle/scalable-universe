@@ -1,0 +1,29 @@
+<svg width="236" height="233" viewBox="0 0 236 233" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="236" height="233" fill="#E5E5E5"/>
+<g id="Frame 1" clip-path="url(#clip0_0_1)">
+<rect width="236" height="233" fill="white"/>
+<g id="Rectangle 3" opacity="0.1">
+<rect x="36.0592" y="26.0539" width="52.9796" height="236" transform="rotate(-30 36.0592 26.0539)" fill="#03009F" fill-opacity="0.2"/>
+<rect x="36.0592" y="26.0539" width="52.9796" height="236" transform="rotate(-30 36.0592 26.0539)" stroke="black"/>
+</g>
+<g id="Rectangle 6" opacity="0.2">
+<rect x="233.436" y="151.059" width="52.9796" height="236" transform="rotate(120 233.436 151.059)" fill="#03009F" fill-opacity="0.2"/>
+<rect x="233.436" y="151.059" width="52.9796" height="236" transform="rotate(120 233.436 151.059)" stroke="black"/>
+</g>
+<g id="Rectangle 2" opacity="0.4">
+<rect y="142" width="54" height="236" transform="rotate(-90 0 142)" fill="#03009F" fill-opacity="0.2"/>
+<rect y="142" width="54" height="236" transform="rotate(-90 0 142)" stroke="black"/>
+</g>
+<g id="Rectangle 4" opacity="0.6">
+<rect x="29.0539" y="196.941" width="52.9796" height="236" transform="rotate(-120 29.0539 196.941)" fill="#03009F" fill-opacity="0.2"/>
+<rect x="29.0539" y="196.941" width="52.9796" height="236" transform="rotate(-120 29.0539 196.941)" stroke="black"/>
+</g>
+<rect id="Rectangle 5" opacity="0.8" x="81.9407" y="230.436" width="52.9796" height="236" transform="rotate(-150 81.9407 230.436)" fill="#03009F" fill-opacity="0.2"/>
+<rect id="Rectangle 1" opacity="0.2" x="91.5" y="-2.5" width="53" height="235" fill="#03009F" stroke="black"/>
+</g>
+<defs>
+<clipPath id="clip0_0_1">
+<rect width="236" height="233" fill="white"/>
+</clipPath>
+</defs>
+</svg>
